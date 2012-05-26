@@ -4,6 +4,8 @@
  * Contains the module code for fragment module.
  */
 
+User 2!!
+
 /**
  * Implements hook_menu().
  */
