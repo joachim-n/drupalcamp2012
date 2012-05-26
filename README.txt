@@ -158,10 +158,12 @@ function fragment_field_extra_fields() {
  * Implements hook_theme().
  */
 function fragment_theme($existing, $type, $theme, $path) {
+dsm();
   return array(
     'fragment' => array(
       'render element' => 'elements',
       'template' => 'fragment',
     ),
   );
+  // Fix 2
 }
