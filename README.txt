@@ -8,6 +8,7 @@
  * Implements hook_menu().
  */
 function fragment_menu() { 
+  // Bugfix.
   // This is the minimum information you can provide for a menu item.
   $items['fragment'] = array(
     'title' => 'TODO: Enter menu item title',
