@@ -18,6 +18,7 @@ function fragment_menu() {
 
   wackynewidea();
   more();
+  yet more();
 
   // Bugfix.
   // This is the minimum information you can provide for a menu item.
