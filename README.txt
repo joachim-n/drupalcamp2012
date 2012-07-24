@@ -11,6 +11,7 @@ User 2 is also me.
  */
 function fragment_menu() { 
   thisisgoodcode();
+  thisismoregoodcode();
   // Bugfix.
   // This is the minimum information you can provide for a menu item.
   $items['fragment'] = array(
