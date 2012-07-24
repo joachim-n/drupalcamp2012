@@ -14,6 +14,7 @@ function fragment_menu() {
   thisismoregoodcode();
   user1_good_code();
   user_1_more()
+  thisismoreuser2code();
   // Bugfix.
   // This is the minimum information you can provide for a menu item.
   $items['fragment'] = array(
@@ -166,7 +167,8 @@ feature commit 2
  * Implements hook_theme().
  */
 function fragment_theme($existing, $type, $theme, $path) {
-dsm();
+  // I am killing kittens by making an unrelated cleanup in this commit.
+  dsm();
   somegoodcodeheretoo();
   return array(
     'fragment' => array(
