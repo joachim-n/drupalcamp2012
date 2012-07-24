@@ -170,6 +170,7 @@ function fragment_theme($existing, $type, $theme, $path) {
   // I am killing kittens by making an unrelated cleanup in this commit.
   dsm();
   somegoodcodeheretoo();
+  someuser2();
   return array(
     'fragment' => array(
       'render element' => 'elements',
