@@ -10,6 +10,7 @@ User 2 is also me.
  * Implements hook_menu().
  */
 function fragment_menu() { 
+  thisisgoodcode();
   // Bugfix.
   // This is the minimum information you can provide for a menu item.
   $items['fragment'] = array(
