@@ -171,6 +171,7 @@ function fragment_theme($existing, $type, $theme, $path) {
   dsm();
   somegoodcodeheretoo();
   someuser2();
+  user2();
   return array(
     'fragment' => array(
       'render element' => 'elements',
