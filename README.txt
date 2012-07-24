@@ -167,6 +167,7 @@ feature commit 2
  */
 function fragment_theme($existing, $type, $theme, $path) {
 dsm();
+  somegoodcodeheretoo();
   return array(
     'fragment' => array(
       'render element' => 'elements',
